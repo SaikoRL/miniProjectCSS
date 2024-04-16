@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background: #FFAF45;
+    background: linear-gradient(to left, #FFAF45 0%, #FB6D48 25%, #D74B76 50%, #965d99 100%);
+    padding: 10vh;
+}
+.containerHeader{
+    display: flex;
+}
+.foto-prof{
+    flex: 1;
+    text-align: center;
+}
+.fotoProper{
+    width: 20vw;
+    border-radius: 2%;
+}
+.detail-prof{
+    flex: 2;
+    text-align: center;
+}
+.nameCat{
+    font-size: 5vw;
+    color: #fff;
+    font-weight: 600;
+    margin:0;
+}
+.titleCat {
+    font-size: 2vw;
+    color: #fff;
+}
