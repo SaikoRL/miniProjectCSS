@@ -21,16 +21,21 @@ header{
     border-radius: 2%;
 }
 .detail-prof{
-    flex: 2;
-    text-align: center;
+    flex: 1.5;
 }
 .nameCat{
     font-size: 5vw;
     color: #fff;
-    font-weight: 600;
-    margin:0;
+    text-align: left;
 }
 .titleCat {
     font-size: 2vw;
     color: #fff;
+}
+.btn-kuy{
+    border: none;
+    border-radius: 6%;
+    padding: 0.75vw 1.5vw;
+    margin: 10px 10px 0 0;
+    font-size: 15px;
 }
